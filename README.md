@@ -1,2 +1,1 @@
-# souregnad.github.io
-Dangerous Website.
+# Dangerous Website

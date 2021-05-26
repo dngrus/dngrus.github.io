@@ -1,0 +1,75 @@
+==================================================================
+https://keybase.io/dngrusmike
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://dngrus.github.io
+  * I am dngrusmike (https://keybase.io/dngrusmike) on keybase.
+  * I have a public key with fingerprint 650A 19A1 AA8A 8AC3 744B  02DC DC9D 6C8C 666B 84D9
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120b106745cec01b2cc73fce4c9855522ab90f1a7314d3613eeeb5efcaaefcc005c0a",
+      "fingerprint": "650a19a1aa8a8ac3744b02dcdc9d6c8c666b84d9",
+      "host": "keybase.io",
+      "key_id": "dc9d6c8c666b84d9",
+      "kid": "01010aa513f12ce8e64c34b4a4640dffc7a078a82d3976f3d8ab1e94ad0dc290d3cf0a",
+      "uid": "8d1ffc657590dbcf6e109f3059f8e319",
+      "username": "dngrusmike"
+    },
+    "service": {
+      "hostname": "dngrus.github.io",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 1
+  },
+  "ctime": 1622057516,
+  "expire_in": 157680000,
+  "prev": "bd5d47052ce070347e669392b9e2c2970676471bc4ade3d2772baeede03827f2",
+  "seqno": 15,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.1.13
+Comment: https://keybase.io/crypto
+
+yMNyAnicbVJ7TBRHHD6eFVCktCXa4KOrEk0pzr53jyKxBNMoWo3WokHO3ZnZY73j
+7rwHcidEIT5SESioTYoVK8UXJKhpUJAoWJWQorWoVYGSmqoNBFpCGihalc7S+keT
+7iQ7mZnv+37f75u5Ni3EFBn00xH7fs22qzuo80q1z7S5oSZxO6U6kZ8yb6dseHLC
+doQ9XotNR5SZAjQDVBoIIsdDDAGtMhCKrAYxB2WJ53mGUVQZaLQisjSHWIFmMcYq
+jzWoKOQHAeAhUKhEStMdVux2uXWHl8gKPFBoWaEVRSIDsiLHqYBBEEEZCVCCgiCo
+EodkQsxxegwGMacqHpykO8keWVgm7f0P/pVvMhSFp1mNZiCWsMBBllM5hRM4gDQN
+igoQSW0GsbIoaCySFJXGMqcggCAjA8RCbdK3b1JOQjThCLzIkyMVagKmgayxgJc1
+CbO0UdfnwW6HkosNVw6r2+fJ1W2YKkykyH6eDrERrdHLfzBJVt2b41P/6crldnqd
+0Gknpzler8tjNthev8uAb8Oq5V8hi6o7EEmTMPKw26M7HZSZJkjo1Q1lWmAYQIzS
+QiKF8126G1t0A8GLggTIZ9TBeURSRTziRMCTeIAIWE7EgiCzMqPKmCERiOTSBU6k
+VUhCwSxiRJFRFYwRBqzEiBpDGa1tdTgNbeJTsRJNj251KF6fmzT+7ZWsUFNQpCk8
+LNh4ZqbIiJhXj697fPpE+spNdy9136y/ce6jvk1nTjc1j/c0/bxvR+kqc+77L2b9
+Wf/jofmxdaOZ6NcCcHZwbcm92SGrz2dknDStnH3r7sKewW9OfzWSNjxU80tJ1oer
+nzQXvyklHXb7Ew4vcu/uktLjPmhc0zkeV3z04F1x04KGuJT8sZrIcf9tr7mjOWp9
+Wn9m75HWRtAVvrDr5Byq8VK9PiO4FTXFLV8XI1Rb2qlHtjS2+emg+4v5bRlTfc/v
+10VnL0XbwgYYxAXKluRt/DqstaV86hu3qhZHzLoe3r+hsjL3cf+C6MS3ii5uSb9w
+58WXaS2B0PRjBdNbjtu+f3f/05FHXS+j30vYvDw4ynqhv3Ibff/ZseGCxu7OZseU
++zfDO+YUJncoc4MCjT17y4OOBiZ6n2uXHy7uPF8RcfLA7ys67ix5MEyntMwbes0e
+kT3+kL42EV7dNTe5MGEo9ZMnoTE7x7KrK5aOlr3j2XB175XLtoGMsu8yfpsxMPbs
+h9rQ0vXOz5Nmnnr9elVGTNZg+7JF60qi5p8dGTt1Y+aB8or4Q6mjc6+nnrga2mry
+V9fezip2fRbYF6je4lqx5+M+rhK0nylrs63b3ba11692H18zJaeq6C/pj6Da/pf3
+NifUKYGG8nhTaZO1f9fb8yqOPrgYVXGQSt4IezpQ/N6Q2Mcp+TGrwLRTfTs/dcba
+9+xYbD2/9lxR5gm/My/Y/jfgRMlK
+=jqLC
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/dngrusmike
+
+==================================================================
